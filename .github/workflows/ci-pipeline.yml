@@ -8,6 +8,6 @@ jobs:
       runs-on: ubuntu-latest
       steps:
         - name: clonar repositorio
-          uses: actions/checkout@v4
+          uses: actions/checkout@v5
         - name: verifica archivos del proyecto
           run: echo "vericando archivos de prueba"
