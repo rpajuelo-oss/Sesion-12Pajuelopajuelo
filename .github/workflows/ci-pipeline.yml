@@ -10,4 +10,4 @@ jobs:
         - name: clonar repositorio
           uses: actions/checkout@v4
         - name: verifica archivos del proyecto
-          run: "verificando archivos"
+          run: "vericando archivos de prueba"
